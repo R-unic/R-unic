@@ -12,3 +12,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=R-unic&show_icons=true&theme=gotham" alt="R-unic" />
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-unic&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
