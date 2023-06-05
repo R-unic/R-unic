@@ -1,7 +1,7 @@
 ## Hey! 👋
 ### I'm Runic, a self-taught American developer.
-I created the [Cosmo programming language](https://github.com/cosmo-lang/cosmo).
-I also own [Paragon Studios](https://github.com/Paragon-Studios), I work on some projects there.
+I created the [Cosmo programming language](https://github.com/cosmo-lang/cosmo).<br/>
+I also own [Paragon Studios](https://github.com/Paragon-Studios), I work on some projects there.<br/><br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -12,6 +12,8 @@ I also own [Paragon Studios](https://github.com/Paragon-Studios), I work on some
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/crystal/crystal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
+
+<br/>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=R-unic&show_icons=true&theme=dark" alt="Contributions" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-unic&layout=compact&theme=dark" alt="Top Langs" />
