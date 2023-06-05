@@ -15,16 +15,27 @@ I created the [Cosmo programming language](https://github.com/cosmo-lang/cosmo),
 
 <br/>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-unic&show_icons=true&theme=dark" alt="Contributions" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-unic&layout=compact&theme=dark" alt="Top Langs" />
+  <a href="https://github.com/cosmo-lang/cosmo">
+    <img src="https://github-readme-stats.vercel.app/api?username=R-unic&show_icons=true&theme=dark" alt="Contributions" />
+  </a>
+  <a href="https://github.com/cosmo-lang/cosmo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-unic&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
 ### My Favorite Repos
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=cosmo&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=roblox-cr&theme=dark" />
+  <a href="https://github.com/cosmo-lang/cosmo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=cosmo&theme=dark" />
+  </a>
+  <a href="https://github.com/R-unic/roblox-cr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=roblox-cr&theme=dark" />
+  </a>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=WizWikiAPI&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=Luay&theme=dark" />
+  <a href="https://github.com/R-unic/WizWikiAPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=WizWikiAPI&theme=dark" />
+  </a>
+  <a href="https://github.com/R-unic/Luay">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=Luay&theme=dark" />
+  </a>
 </p>
