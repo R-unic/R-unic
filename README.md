@@ -15,11 +15,8 @@ I created the [Cosmo programming language](https://github.com/cosmo-lang/cosmo),
 
 <br/>
 <p align="left">
-  <a href="https://github.com/cosmo-lang/cosmo">
-    <img src="https://github-readme-stats.vercel.app/api?username=R-unic&show_icons=true&theme=dark" alt="Contributions" />
-  </a>
-  <a href="https://github.com/cosmo-lang/cosmo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-unic&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=R-unic&show_icons=true&theme=dark" alt="Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-unic&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
 ### My Favorite Repos
