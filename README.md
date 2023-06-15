@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Runic, a self-taught American developer.<br/>
+I'm Runic, a self-taught American full-stack developer.<br/>
 I created the [Cosmo programming language](https://github.com/cosmo-lang/cosmo), and I also own [Paragon Studios](https://github.com/Paragon-Studios).
 <br/>
 <p align="left">
