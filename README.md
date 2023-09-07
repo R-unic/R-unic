@@ -27,7 +27,7 @@ I created the [Cosmo programming language](https://github.com/cosmo-lang/cosmo),
   <a href="https://github.com/cosmo-lang/cosmo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=cosmo&theme=dark" />
   </a>
-  <a href="https://github.com/R-unic/roblox-cr">
+  <a href="https://github.com/R-unic/crystallizer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=crystallizer&theme=dark" />
   </a>
 </p>
