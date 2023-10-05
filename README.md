@@ -35,7 +35,7 @@ I created the [Cosmo programming language](https://github.com/cosmo-lang/cosmo),
   <a href="https://github.com/R-unic/WizWikiAPI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=WizWikiAPI&theme=dark" />
   </a>
-  <a href="https://github.com/R-unic/Luay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=Luay&theme=dark" />
+  <a href="https://github.com/p-programming-language/plang">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinAlavik&repo=plang&theme=dark" />
   </a>
 </p>
