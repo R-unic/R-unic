@@ -1,6 +1,6 @@
 ## Hey! 👋
 I'm Runic, a self-taught American full-stack developer.<br/>
-I created the [Cosmo programming language](https://github.com/cosmo-lang/cosmo), [Crystallizer](https://github.com/R-unic/crystallizer), and I also own [Paragon Studios](https://github.com/Paragon-Studios).
+I created the [P programming language](https://github.com/p-programming-language/plang), [Crystallizer](https://github.com/R-unic/crystallizer), and I also own [Cataclysmic Studios](https://github.com/cataclysmic-studios).
 <br/>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=r-unic&label=Profile%20views&color=0e75b6&style=flat" alt="r-unic" />
