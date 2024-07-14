@@ -35,7 +35,7 @@ I created the [P programming language](https://github.com/p-programming-language
   <a href="https://github.com/R-unic/crystallizer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=crystallizer&theme=dark" />
   </a>
-  <a href="https://github.com/R-unic/WizWikiAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=WizWikiAPI&theme=dark" />
+  <a href="https://github.com/R-unic/roblox-cs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=roblox-cs&theme=dark" />
   </a>
 </p>
