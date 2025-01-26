@@ -1,6 +1,6 @@
 ## Hey! 👋
 I'm Runic, a self-taught American full-stack developer.<br/>
-I created the [P programming language](https://github.com/p-programming-language/plang), [Heir](https://github.com/R-unic/heir), [roblox-cs](https://roblox-cs.com), and I also own [Cataclysmic Studios](https://github.com/cataclysmic-studios).
+I created the [Heir language](https://github.com/heir-lang/heir), [roblox-cs](https://roblox-cs.com), and I also own [Cataclysmic Studios](https://github.com/cataclysmic-studios).
 <br/><br/>
 [roblox-ts](https://roblox-ts.com) is better than Luau in every single way.
 <br/>
@@ -26,16 +26,16 @@ I created the [P programming language](https://github.com/p-programming-language
 
 ### My Favorite Repos
 <p align="left">
-  <a href="https://github.com/cosmo-lang/cosmo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=cosmo&theme=dark" />
+  <a href="https://github.com/R-unic/runit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=runit&theme=dark" />
   </a>
-  <a href="https://github.com/p-programming-language/plang">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinAlavik&repo=plang&theme=dark" />
+  <a href="https://github.com/R-unic/mechanism">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=mechanism&theme=dark" />
   </a>
 </p>
 <p align="left">
-  <a href="https://github.com/R-unic/crystallizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=crystallizer&theme=dark" />
+  <a href="https://github.com/heir-lang/heir">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heir-lang&repo=heir&theme=dark" />
   </a>
   <a href="https://github.com/R-unic/roblox-cs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-unic&repo=roblox-cs&theme=dark" />
